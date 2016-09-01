@@ -8,7 +8,7 @@ html {
 
 body {
     padding-top: 50px;
-    font: 16px arial, sans-serif;
+    font: 11px verdana, sans-serif;
     color: #FFFFFF;
     font-weight: normal;
 }
@@ -49,7 +49,7 @@ li {
 #nav {
     font-style: normal;
     text: white;
-    font: 30px Arial, sans-serif;
+    font: 20px verdana, sans-serif;
 }
 
 #spacer {
